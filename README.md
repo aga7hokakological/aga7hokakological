@@ -14,21 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://i.gifer.com/746e.gif)
 
+#### What I do:
+- :mag_right: Love for **open source** contributions
+- 🌱 I’m currently learning **web app pentesting**
+- ⚡ Fun fact: Watashi wa anime ga daisukidesu
 
-```rust
-struct Me {
-  name: String,
-  favorite_languages: String,
-  skills: String,
-}
+#### How to reach me:
+<!-- Actual text -->
+[![Twitter][1.2]][1]  
+<!--[![LinkedIn][2.2]][2]. -->
 
-fn main() {
-  let myself = Me {
-    name: String::from("Saurabh"),
-    favorite_languages: String::from("python, rust"),
-    skills: "docker, sec testing",
-  }
-}
-```
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/tXSoThF.png (twitter icon without padding)
+<!-- [2.2]: https://raw.githubusercontent.com/aga7hokakological/aga7hokakological/master/linkedin-3-16.png (LinkedIn icon without padding)-->
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/saurabhmandy
+<!-- [2]: https://www.linkedin.com/in/saurabh-mandavkar-718a31150/ -->
