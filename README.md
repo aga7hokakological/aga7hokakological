@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[](https://i.gifer.com/746e.gif)
+![](https://i.gifer.com/746e.gif)
 
 
-```struct Me {
+```rust
+struct Me {
   name: String,
   favorite_languages: String,
   skills: String,
