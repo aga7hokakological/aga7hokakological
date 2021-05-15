@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[](https://i.gifer.com/746e.gif)
+
+
+```struct Me {
+  name: String,
+  favorite_languages: String,
+  skills: String,
+}
+
+fn main() {
+  let myself = Me {
+    name: String::from("Saurabh"),
+    favorite_languages: String::from("python, rust"),
+    skills: "docker, sec testing",
+  }
+}
+```
