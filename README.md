@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 #### What I do:
+
+| Designation      | Firm        |
+| ---------------- | ----------- |
+| Auditor          | code4rena   |
+| Soldier          | AuditArmy   |
+
 - :mag_right: Love for **open source** contributions
-- 🌱 I’m currently learning **web app pentesting**
+- 🌱 I’m currently learning **web app pentesting** and **Defi-Sec**
 - ⚡ Fun fact: Watashi wa anime ga daisukidesu
 
 #### How to reach me:
