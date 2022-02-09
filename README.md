@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | Designation      | Firm        |
 | ---------------- | ----------- |
 | Auditor          | code4rena   |
-| Soldier          | AuditArmy   |
+| core dev          | cyclos fi   |
 
 - :mag_right: Love for **open source** contributions
 - 🌱 I’m currently learning **web app pentesting** and **Defi-Sec**
