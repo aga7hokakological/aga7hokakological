@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | Designation      | Firm        |
 | ---------------- | ----------- |
-| Auditor          | code4rena   |
+| Auditor          | c4   |
 
 - :mag_right: Love for **open source** contributions
 - 🌱 I’m currently learning **web app pentesting** and **Defi-Sec**
