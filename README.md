@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | Designation      | Firm        |
 | ---------------- | ----------- |
-| Auditor          | c4   |
+| Auditor          | QuillAudits |
 
 - :mag_right: Love for **open source** contributions
 - 🌱 I’m currently learning **web app pentesting** and **Defi-Sec**
