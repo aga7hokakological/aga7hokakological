@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 | Designation      | Firm        |
 | ---------------- | ----------- |
 | Auditor          | [QuillAudits](https://audits.quillhash.com/smart-contract-audit) |
-|           | 700+ Projects Audited in Defi, NFT and DAO |
-|           | 700K + Lines of codes audited |
+|           | 850+ Projects Audited in Defi, NFT and DAO |
+|           | 800K + Lines of codes audited |
 |           | 1000's of high and mid level Vulnerable issues detected for the projects audited |
 |           | Building @QuillAudits - Making Web3 a safer place |
 
