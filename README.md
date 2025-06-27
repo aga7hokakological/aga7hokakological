@@ -15,19 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### What I do:
-
-| Designation      | Firm        |
-| ---------------- | ----------- |
-| Auditor          | [QuillAudits](https://audits.quillhash.com/smart-contract-audit) |
-|           | 850+ Projects Audited in Defi, NFT and DAO |
-|           | 800K + Lines of codes audited |
-|           | 1000's of high and mid level Vulnerable issues detected for the projects audited |
-|           | Building @QuillAudits - Making Web3 a safer place |
-
-- :mag_right: Love for **open source** contributions
-- 🌱 I’m currently learning **web app pentesting** and **Defi-Sec**
-- ⚡ Fun fact: Watashi wa anime ga daisukidesu
+#### 
 
 #### How to reach me:
 <!-- Actual text -->
